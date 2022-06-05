@@ -36,7 +36,6 @@
                   </NuxtLink>
                 </li>
                 <li class="mb-2 block">خدمات</li>
-                <li class="mb-2 block">نمونه کارها</li>
               </ul>
             </div>
 
